@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [Quarkus](https://github.com/quarkusio/quarkus)
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/devesh-bamola-8a029b168/](https://www.linkedin.com/in/devesh-bamola-8a029b168/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/devesh-bamola-8a029b168/](https://www.linkedin.com/in/devesh-bamola-8a029b168/)
 
 - 📫 How to reach me **deveshbamola@gmail.com**
 
